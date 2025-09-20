@@ -120,6 +120,11 @@ cp config.jsonc ~/.config/fastfetch/
 # IMPORTANT: Copy the assets folder which contains the logo
 cp -r assets ~/.config/
 ```
+Or You can change "Fastfetch Logo" form 
+/home/Your_User/.config/fastfetch/config.jsonc
+And change "Logo Source"
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
+
 ### Step 6: Configure Konsole Manually
 
 Finally, apply the visual settings to Konsole.
