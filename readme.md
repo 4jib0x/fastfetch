@@ -133,7 +133,7 @@ Finally, apply the visual settings to Konsole.
     Open Konsole and go to Settings -> Edit Current Profile...
     In the General tab, edit columns to 120 , rows 31  to get best terminal size 
     Make  sure  turn off "Remember window size" form konsole configure "Genenral"
- ![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/apperance.png)       
+ ![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/edit%20profile.png)       
     
     In the Appearance tab, configure the settings as shown in the image below:
         Set the Font to "FiraCode Nerd Font | Regular | 11".
@@ -151,6 +151,8 @@ Finally, apply the visual settings to Konsole.
 ## 🖼️ Wallpaper
 
 The wallpaper used in the showcase is included in this repository. You can find it in the assets/wallpaper directory
+
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/wallpaper/pastel-car.png)
 
 ## 🎉 Done!
 
