@@ -122,8 +122,9 @@ cp -r assets ~/.config/
 ```
 Or You can change "Fastfetch Logo" form 
 /home/Your_User/.config/fastfetch/config.jsonc
-And change "Logo Source"
-![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
+| And change "Logo Source"
+
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/change%20photo.png)
 
 ### Step 6: Configure Konsole Manually
 
@@ -132,16 +133,18 @@ Finally, apply the visual settings to Konsole.
     Open Konsole and go to Settings -> Edit Current Profile...
     In the General tab, edit columns to 120 , rows 31  to get best terminal size 
     Make  sure  turn off "Remember window size" form konsole configure "Genenral"
+ ![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/apperance.png)       
+    
     In the Appearance tab, configure the settings as shown in the image below:
         Set the Font to "FiraCode Nerd Font | Regular | 11".
         Install Dracula Theme form Get New...
         Set the Color scheme to "Dracula".
         Click Edit to edit "Dracula Theme"
-![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/apperance.png)
 
         Change Background color to #1e1f29  & Color 4 to #f38ba8  to get the same colors of fastfetch
         Adjust the "Background transparency" to your liking (e.g., 18% )
-![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/colors%20and%20transparency.png)
   
   Click OK to save and restart Konsole to see the final result!
 
