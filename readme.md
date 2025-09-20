@@ -125,6 +125,8 @@ cp -r assets ~/.config/
 Finally, apply the visual settings to Konsole.
 
     Open Konsole and go to Settings -> Edit Current Profile...
+    In the General tab, edit columns to 120 , rows 31  to get best terminal size 
+    Make  sure  turn off "Remember window size" form konsole configure "Genenral"
     In the Appearance tab, configure the settings as shown in the image below:
         Set the Font to "FiraCode Nerd Font | Regular | 11".
         Install Dracula Theme form Get New...
