@@ -2,7 +2,7 @@
 
 A complete guide to replicate my personal terminal setup on Fedora Linux with KDE Plasma. This setup features **Zsh**, **Starship Prompt** (with a Catppuccin preset ), a customized **Konsole** appearance, and **Fastfetch**.
 
-![Showcase of the final terminal look](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)?raw=true )
+![Showcase of the final terminal look](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
 
 ---
 
@@ -32,11 +32,11 @@ Follow these steps in order to achieve the final look.
 First, we'll update the system and install all the necessary tools, including `fastfetch` and `Zsh`.
 
 ```bash
-# Install Fastfetch first
-sudo dnf install fastfetch -y
-
 # Update all system packages to the latest version
 sudo dnf update -y
+
+# Install Fastfetch first
+sudo dnf install fastfetch -y
 
 # Install Zsh and set it as the default shell
 sudo dnf install zsh -y
@@ -76,6 +76,7 @@ Starship is the engine that powers our beautiful prompt.
 
 ```bash
 # Install Starship using the official script
+
 curl -sS https://starship.rs/install.sh | sh
 ```
 
@@ -123,13 +124,18 @@ cp -r assets ~/.config/
 
 Finally, apply the visual settings to Konsole.
 
-    Open Konsole and go to Settings -> Manage Profiles....
-    Select your default profile and click Edit....
+    Open Konsole and go to Settings -> Edit Current Profile...
     In the Appearance tab, configure the settings as shown in the image below:
-        Set the Font to "FiraCode Nerd Font".
+        Set the Font to "FiraCode Nerd Font | Regular | 11".
+        Install Dracula Theme form Get New...
         Set the Color scheme to "Dracula".
-        Adjust the "Background transparency" to your liking (e.g., 18% )
+        Click Edit to edit "Dracula Theme"
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
 
+        Change Background color to #1e1f29  & Color 4 to #f38ba8  to get the same colors of fastfetch
+        Adjust the "Background transparency" to your liking (e.g., 18% )
+![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
+  
   Click OK to save and restart Konsole to see the final result!
 
 ## 🖼️ Wallpaper
