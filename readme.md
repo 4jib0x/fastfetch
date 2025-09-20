@@ -2,7 +2,7 @@
 
 A complete guide to replicate my personal terminal setup on Fedora Linux with KDE Plasma. This setup features **Zsh**, **Starship Prompt** (with a Catppuccin preset ), a customized **Konsole** appearance, and **Fastfetch**.
 
-![Showcase of the final terminal look](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole preview.png?raw=true )
+![Showcase of the final terminal look]([https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole preview.png](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)?raw=true )
 
 ---
 
