@@ -131,6 +131,8 @@ Or You can change "Fastfetch Logo" form
 ![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/change%20photo.png)
 
 ### Step 6: Configure Konsole Manually
+> **Note:** For the transparency to look good, make sure the **Blur** effect is enabled in your KDE settings. You can find it under `System Settings` -> `Desktop Effects`.
+ ![](https://github.com/4jib0x/fastfetch/blob/main/assets/md/blur%20effect.png)  
 
 Finally, apply the visual settings to Konsole.
 
