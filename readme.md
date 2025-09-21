@@ -51,7 +51,7 @@ sudo dnf update -y
 # Install other helper tools
 sudo dnf install git curl wget util-linux-user -y
 
-#  Clone the Repository
+#  Clone my Repository
 git clone https://github.com/4jib0x/fastfetch.git
 cd fastfetch
 
