@@ -5,7 +5,20 @@ A complete guide to replicate my personal terminal setup on Fedora Linux with KD
 ![Showcase of the final terminal look](https://github.com/4jib0x/fastfetch/blob/main/assets/md/Konsole%20preview.png)
 
 ---
+## 📑 Table of Contents
+- [🌟 Features](#-features)
+- [📋 Prerequisites](#-prerequisites)
+- [🚀 Installation Guide](#-full-installation-guide)
+  - [Step 1: System Update](#step-1-system-update--essential-tools-installation)
+  - [Step 2: Configure Zsh](#step-2-configure-zsh-with-plugins)
+  - [Step 3: Install Starship](#step-3-install-and-configure-starship-prompt)
+  - [Step 4: Install Fonts](#step-4-install-firacode-nerd-font)
+  - [Step 5: Fastfetch](#step-5-configure-fastfetch-with-custom-logo)
+  - [Step 6: Konsole Setup](#step-6-configure-konsole-manually)
+- [🖼️ Wallpaper](#️-wallpaper)
+- [🎉 Done!](#-done)
 
+---
 ## 🌟 Features
 
 *   **Modern Shell:** Zsh with powerful, must-have plugins.
