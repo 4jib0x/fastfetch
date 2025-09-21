@@ -35,7 +35,11 @@ First, we'll update the system and install all the necessary tools, including `f
 # Update all system packages to the latest version
 sudo dnf update -y
 
-# Install Fastfetch first
+#  Clone the Repository
+git clone https://github.com/4jib0x/fastfetch.git
+cd fastfetch
+
+# Install Fastfetch First
 sudo dnf install fastfetch -y
 
 # Install Zsh and set it as the default shell
