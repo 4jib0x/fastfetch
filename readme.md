@@ -42,11 +42,14 @@ Follow these steps in order to achieve the final look.
 
 ### Step 1: System Update & Essential Tools Installation
 
-First, we'll update the system and install all the necessary tools, including `fastfetch` and `Zsh`.
+First, we'll update the system , Clone This Repository ( This repository includes my personal configs, assets, and wallpaper. Make sure to clone this repo, not the official fastfetch one ) and  install all the necessary tools, including `fastfetch` and `Zsh`.
 
 ```bash
 # Update all system packages to the latest version
 sudo dnf update -y
+
+# Install other helper tools
+sudo dnf install git curl wget util-linux-user -y
 
 #  Clone the Repository
 git clone https://github.com/4jib0x/fastfetch.git
@@ -59,9 +62,8 @@ sudo dnf install fastfetch -y
 sudo dnf install zsh -y
 chsh -s $(which zsh)
 
-# Install other helper tools
-sudo dnf install git curl wget util-linux-user -y
 ```
+You may need to log out and log back in (or restart) for the shell change to take effect.
 
 ### Step 2: Configure Zsh with Plugins
 
