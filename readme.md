@@ -1,4 +1,4 @@
-# 🚀 My KDE Terminal Setup 
+# 🚀 My Fedora KDE Terminal Setup 
 
 A complete guide to replicate my personal terminal setup on Fedora Linux with KDE Plasma. This setup features **Zsh**, **Starship Prompt** (with a Catppuccin preset ), a customized **Konsole** appearance, and **Fastfetch**.
 
